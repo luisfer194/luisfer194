@@ -8,7 +8,7 @@
 
 ```js
 const skills = {
-  Desarrollo Web: ["HTML", "CSS", "JavaScript"],
+  desarrolloWeb: ["HTML", "CSS", "JavaScript"],
   webDesign: ["WordPress", "Elementor", "Diseño responsive"],
   database: ["MySQL"],
   qa: ["Manual Testing", "Bug Tracking"],
