@@ -30,5 +30,6 @@ const skills = {
 ---
 
 ## 📫 Contacto
+- 💼 Linkendin: www.linkedin.com/in/luis-lopez-56aba1179  
 - 💼 GitHub: https://github.com/luissfer194  
 - 📧 Email: luissfer194@gmail.com
