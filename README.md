@@ -1,15 +1,6 @@
 # 👋 Hola, soy Luis Fernando
 
-💻 Estudiante de **Ingeniería de Sistemas** apasionado por el **desarrollo de software**, el **diseño web** y el **aseguramiento de la calidad (QA)**.  
-Me gusta crear soluciones digitales funcionales, visualmente atractivas y bien estructuradas.
-
----
-
-## 🚀 Sobre mí
-- 🎓 Estudiante de décimo semestre de Ingeniería de Sistemas  
-- 💡 Interés principal en **desarrollo frontend** y **diseño web**
-- 🧪 Experiencia en **Testing QA** durante mis prácticas universitarias
-- 🌱 Siempre aprendiendo nuevas tecnologías y buenas prácticas
+💻 Estudiante de décimo semestre de **Ingeniería de Sistemas**, con interés en el **desarrollo de software**, el **desarrollo frontend** y el **diseño web**. Tengo experiencia trabajando con **HTML, CSS y JavaScript**, así como en la creación de sitios web con **WordPress y Elementor**, aplicando principios de diseño responsive y usabilidad. Además, he participado en procesos de **testing QA** durante mis prácticas universitarias, apoyando la creación de casos de prueba y el reporte de errores, y cuento con conocimientos básicos en **MySQL**. Me caracterizo por el aprendizaje constante y el interés en mejorar tanto el código como la calidad del producto final.
 
 ---
 
@@ -34,9 +25,7 @@ const skills = {
 ---
 
 ## 📚 Actualmente aprendiendo
-- JavaScript avanzado  
-- React  
-- Mejores prácticas de testing y QA  
+- React + NEXT.js
 
 ---
 
