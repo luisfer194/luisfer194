@@ -15,30 +15,15 @@ Me gusta crear soluciones digitales funcionales, visualmente atractivas y bien e
 
 ## 🛠️ Tecnologías y herramientas
 
-### Desarrollo Web
-- HTML5  
-- CSS3  
-- JavaScript  
-
-### Diseño Web
-- WordPress  
-- Elementor  
-- Diseño responsive  
-
-### Bases de datos
-- MySQL (nivel básico)
-
-### Testing / QA
-- Pruebas manuales  
-- Creación de casos de prueba  
-- Reporte y seguimiento de errores  
-
-### Herramientas
-- Git y GitHub  
-- Figma  
-- Canva  
-- Photoshop  
-
+```js
+const skills = {
+  Desarrollo Web: ["HTML", "CSS", "JavaScript"],
+  webDesign: ["WordPress", "Elementor", "Diseño responsive"],
+  database: ["MySQL"],
+  qa: ["Manual Testing", "Bug Tracking"],
+  herramientas: ["Git y Github","Canva"]
+};
+```
 ---
 
 ## 📌 Experiencia
